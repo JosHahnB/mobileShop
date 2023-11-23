@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     color: '#666666', // Medium gray text color
   },
   button: {
-    backgroundColor: '#3498db',
+    backgroundColor: '#409c9b',
     paddingVertical: 12,
     paddingHorizontal: 20,
     borderRadius: 8,

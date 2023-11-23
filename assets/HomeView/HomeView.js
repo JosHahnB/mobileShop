@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     lineHeight: 60,
     fontWeight: 'bold',
     textAlign: 'center',
-    backgroundColor: '#225d97',
+    backgroundColor: '#409c9b',
     position: 'absolute',
     top: 0,
     left: 0,
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     flex: 0.5,
     lineHeight: 84,
     textAlign: 'center',
-    backgroundColor: '#225d97',
+    backgroundColor: '#409c9b',
   },
   buttonText: {
     color: 'white',
