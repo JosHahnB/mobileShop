@@ -8,9 +8,6 @@ RecipePage: A page where you can add new recipes, providing a title and details.
 
 RecipeList: A collapsible list of recipes that displays the title of each recipe. Click on a recipe to expand and view its details.
 
-Screenshots
-Include screenshots or GIFs of your app in action to give users a visual preview.
-
 Getting Started
 To run the Hangry app locally, follow these steps:
 
